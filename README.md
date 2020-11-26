@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-All standard Artificial Intelligence Standard Problems with source codes are available in this repository.
+Solution Codes to all standard Artificial Intelligence Problems available in this repository.
